@@ -1,8 +1,2 @@
-spring:
-  application:
-    name: catalog
-  #profiles:
-  #  active:
-  #  - dev	
 server:
   port: 8081
